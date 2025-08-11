@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen:wght@400..800&display=swap');
+@import "tailwindcss";
+
+.bodyfont{
+  font-family: "Sen", sans-serif;
+  font-style: normal;
+}
+
+
+.bgcolor{
+  background-color: #faf8ed;
+}
+
+.primary-color{
+  color: #034733;
+}
+
+.primary-bg{
+  background-color: #034733;
+}
+
+.secondary-color{
+  color: #f56e4c;
+}
+
+.secondary-bg{
+  background-color: #f56e4c;
+}
