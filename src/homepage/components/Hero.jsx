@@ -1,5 +1,5 @@
 import React from "react";
-import heroimage from "../../assets/Herosection.png";
+import heroimage from "../../assets/HeroSection.png";
 import { BsMagic } from "react-icons/bs";
 
 function Hero() {
