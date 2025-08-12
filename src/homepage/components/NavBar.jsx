@@ -62,7 +62,7 @@ function NavBar() {
           {/* nav links section  */}
           <div className="flex items-center primary-color gap-6 h-full bg-white rounded-full px-6 ">
             {navLinks.map(({ name }, index) => (
-              <div key={index} className="text-base font-medium">
+              <div key={index} className="text-sm">
                 {name}
               </div>
             ))}

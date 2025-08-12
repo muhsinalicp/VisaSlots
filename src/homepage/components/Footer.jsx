@@ -6,7 +6,7 @@ import { MdOutlineCopyright } from "react-icons/md";
 function Footer() {
   return (
     <footer>
-      <div className="primary-bg p-2 grid md:grid-cols-2 px-2 gap-4 md:gap-10 md:px-10">
+      <div className="primary-bg py-4 grid md:grid-cols-2 px-2 gap-4 md:gap-10 md:px-10">
         <div className="space-y-1">
           <div className="flex gap-1 items-center">
             <img src={logo} alt="logo" className="size-8" />

@@ -7,7 +7,7 @@ function Hero() {
     <div className="w-screen md:h-screen">
       <div className="flex flex-col-reverse md:flex-row h-full w-full   ">
         {/* appointment section  */}
-        <div className="w-full flex justify-center flex-col gap-1 p-2 px-2 md:px-8">
+        <div className="w-full flex justify-center flex-col gap-1 p-2 px-2 md:px-16">
           <div className="bg-[#faebde] rounded-full  w-fit p-2 px-4 flex gap-2 secondary-color font-bold text-lg md:text-xl">
             <BsMagic />
             <span>AI-Powered • Instant Results</span>
