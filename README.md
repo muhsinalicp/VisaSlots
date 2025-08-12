@@ -20,7 +20,7 @@ This project is my implementation of the given Figma design using **React.js** a
 2. Navigate to the project folder:
 
    ```bash
-    cd project-folder
+    cd VisaSlots
    ```
 
 3. Install dependencies:
