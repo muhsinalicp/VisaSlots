@@ -10,9 +10,9 @@ function Footer() {
         <div className="space-y-1">
           <div className="flex gap-1 items-center">
             <img src={logo} alt="logo" className="size-8" />
-            <h1 className="font-bold text-white">Visaslots</h1>
+            <h1 className="font-bold text-3xl text-white">Visaslots</h1>
           </div>
-          <p className="text-gray-200 font-extralight text-xs">
+          <p className="text-gray-200 font-extralight text-lg">
             Travelo is Southeast Asia’s travel and lifestyle app, we provide you
             with access to discover and purchase different type of travel needs.
           </p>
@@ -20,29 +20,29 @@ function Footer() {
 
         <div className="grid text-white md:grid-cols-3 gap-2">
           <div>
-            <h1 className="font-bold  text-sm">Products</h1>
+            <h1 className="font-bold text-xl">Products</h1>
             <ul className="space-y-2 md:space-y-4 py-2 md:py-4">
-              <li className="text-xs">Visaslots</li>
-              <li className="text-xs">FAQ</li>
-              <li className="text-xs">Blog</li>
+              <li className="">Visaslots</li>
+              <li className="">FAQ</li>
+              <li className="">Blog</li>
             </ul>
           </div>
 
           <div>
-            <h1 className="font-bold text-sm">Company</h1>
-            <ul className="space-y-2 md:space-y-4 py-2 md:py-4">
-              <li className="text-xs">About us</li>
-              <li className="text-xs">Contact us</li>
-              <li className="text-xs">For Visa Agencies</li>
+            <h1 className="font-bold text-xl">Company</h1>
+            <ul className="space-y-2  md:space-y-4 py-2 md:py-4">
+              <li className="">About us</li>
+              <li className="">Contact us</li>
+              <li className="">For Visa Agencies</li>
             </ul>
           </div>
 
           <div>
-            <h1 className="font-bold text-sm">Resources</h1>
+            <h1 className="font-bold text-xl">Resources</h1>
             <ul className="space-y-2 md:space-y-4 py-2 md:py-4">
-              <li className="text-xs">Privacy and Policy</li>
-              <li className="text-xs">Terms and Conditions</li>
-              <li className="text-xs">Cookie Settings</li>
+              <li className="">Privacy and Policy</li>
+              <li className="">Terms and Conditions</li>
+              <li className="">Cookie Settings</li>
             </ul>
           </div>
         </div>
