@@ -126,7 +126,7 @@ function Service() {
             <div className="h-full  flex flex-col gap-4 p-2">
               {autoBookingCard.map(({ body, icon }, idx) => (
                 <div key={idx} className="flex w-full  gap-3 items-center">
-                  <div className="bg-[#caded8] shrink-0 size-9 flex items-center justify-center primary-color rounded-full">
+                  <div className=" bg-[#faebde] shrink-0 size-9 flex items-center justify-center secondary-color rounded-full">
                     {icon}
                   </div>
                   <div className="text-xs  text-gray-600">{body}</div>
